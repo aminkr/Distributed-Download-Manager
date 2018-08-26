@@ -1,6 +1,6 @@
 #!/usr/bin/python
 """
-Remote Download Manager (RDM).
+Distributed Download Manager (DDM).
 """
 
 __author__ = 'amin.kavosi'
